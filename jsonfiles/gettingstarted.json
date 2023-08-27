@@ -1,0 +1,18 @@
+{
+    "getting_started_module":[
+        {
+            "gettingstartedsidenav" : "Getting Started",
+            "gettingstartedToc" : "Getting Started",
+            "helloworldToc" : "Hello World",
+            "initnewToc" : "initNew",
+            "initfrommasterkeyToc" : "initFromMasterKey",
+            "initfrommasterseed" : "initFromSeed",
+            "signuphere" : "here",
+            "developmentteamlink" : "development team",
+            "typescriptlinkbutton" : "TypeScript",
+            "herelinkofcontactdev" : "here",
+            "sendandrecivepaymentslink" : "send and receive payments",
+            "devzenottamaillink" : "dev@zenotta.com"           
+        }
+    ]
+}

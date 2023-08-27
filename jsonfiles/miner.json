@@ -1,0 +1,14 @@
+{
+    "miner_node":[
+        {
+        "miner" : "Miner Node", 
+        "minerToc" : "Miner Node",
+        "balanceofpower" : "Balance of Power",
+        "partitioningToc" : "Partitioning",       
+        "powlink" : "Proof-of-Work (PoW)",
+        "unicornlink" : "UNiCORN",
+        "previousbutton_mempoolnode" : "< Mempool Node",
+        "nextbutton_storagenode" : "Storage Node >"
+    }
+  ]
+}

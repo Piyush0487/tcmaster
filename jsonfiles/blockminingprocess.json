@@ -1,0 +1,27 @@
+{
+    "blockminingprocess_module":[
+        {
+            "developer_documentation_top":"Developer Documentation",   
+            "deepdivedocumentation":"Deep Dive Documentation",   
+            "zenotta_network_protocol":"Zenotta Network Protocol",
+            "blockminingprocess":"Block Mining Process",
+            "transactions":"< Transactions",   
+            "dualdoubleentrytransactions":"Dual Double Entry Transactions >",   
+            "mempool":"Mempool Node",
+            "miners":"Miner Node",
+            "storage":"Storage Node",   
+            "unicorn":"Unicorns",
+            "unicornconstruction":"UNiCORN Construction",
+            "processforasingleblock":"Process for a Single Block",
+            "toc_blockminingprocess":"Block Mining Process",
+            "parallelpipelineforallblocks":"Parallel Pipeline for All Blocks"
+
+            
+        }
+    ]
+}
+
+
+
+
+

@@ -1,0 +1,15 @@
+{
+    "shuriken_auditing":[
+        {
+        "shurikenauditingsidenav" : "Shuriken Auditing",
+        "auditingnewassetsToc" : "Auditing, a Requirement to Create New Assets",
+        "processflowToc" : "Process Flow",
+        "diagramToc" : "Diagram",
+        "shurikenauditingToc" : "Shuriken Auditing",
+        "shurikenauditingmempoollink" : "Mempool",
+        "unicornlink" : "UNiCORN",
+        "shurikenauditingstorageLink" : "Storage",
+        "previousbuttondualdoublentry" : "< Dual Double Entry Transactions"
+    }
+  ]
+}

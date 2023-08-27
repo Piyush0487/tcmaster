@@ -1,0 +1,18 @@
+{
+    "storage_node":[
+        {
+        "storagenodesidenav" : "Storage Node",
+        "storagenodeToc" : "Storage Node",
+        "storagestructureToc" : "Storage Node Structure",
+        "receivingblocksToc" : "Receiving Blocks",
+        "receivingvaluesToc" : "Receiving UNiCORN Values",
+        "receivingdruidsToc" : "Receiving DRUIDs",
+        "storagenodeconsToc" : "Storage Node Consensus",
+        "raftconsensuslink" : "RAFT consensus",
+        "unicornlink" : "UNiCORN",
+        "druidslink" : "DRUIDs",
+        "previousbuttonminernode" : "< Miner Node",
+        "nextbuttonunicorns" : "Unicorns >"
+    }
+  ]
+}

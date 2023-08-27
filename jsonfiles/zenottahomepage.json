@@ -1,0 +1,15 @@
+{
+    "zenotta_homepage":[
+        {
+        "signupalert" : "here", 
+        "philosophy" : "Philosophy",
+        "economics" : "Economics",
+        "computerscience" : "Computer science",
+        "whitepaper" : "whitepaper",
+        "researchbutton" : "Research",
+        "zenottanetworkprotocol" : "Zenotta Network Protocol",
+        "documentationbutton" : "Documentation",
+        "usefullinksbutton" : "Useful links"
+    }
+  ]
+}

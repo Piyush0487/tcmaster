@@ -1,0 +1,25 @@
+{
+    "footer_module":[
+        {
+            "researchhome" : "Home",
+            "peertopeerelectronictrade" : "Peer-to-peer electronic trade",
+            "balances" : "Balances",
+            "randomreductionofminers" : "Random reduction of miners",
+            "developerdocumentationhome" : "Home",
+            "gettingstarted"  : "Getting Started",
+            "zenottanetworkprotocol" : "Zenotta Network Protocol",
+            "tutorials" : "Tutorials",
+            "contactus" : "Contact us",
+            "support" : "Support",
+            "imprint" : "Imprint",  
+            "reportabug" : "Report a bug",           
+            "privacypolicy" : "Privacy Policy",
+            "linkedin" : "LinkedIn",
+            "twiter" : "Twiter",
+            "youtube" : "Youtube",
+            "facebook" : "FaceBook",
+            "morelink" : "More"
+
+        }
+    ]
+}

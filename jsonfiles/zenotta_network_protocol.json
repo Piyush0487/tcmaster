@@ -1,0 +1,26 @@
+{
+    "zenotta_network_protocol":[
+        {
+        "developerdocumentation" : "Developer Documentation", 
+        "deepdivesidenavigation" : "Deep Dive Documentation",
+        "zenottaSidenav" : "The Zenotta Network Protocol",
+        "zenottaToc" : "The Zenotta Network Protocol",
+        "gettingstartedToc" : "Getting Started",
+        "systemarchToc" : "System Architecture",
+        "codedesign" : "Code Design",
+        "nodetypeslink" : "Node Types",
+        "mempoolnodelink" : "Mempool Node",
+        "minernodelink" : "Miner Node",
+        "storagenodelink" : "Storage Node",
+        "unicornslink" : "UNiCORNs",
+        "transactionslink" : "Transactions",
+        "blockminingprocesslink" : "Block Mining Process",
+        "dualdoublentrylink" : "Dual Double Entry Transactions",
+        "shurikenlink" : "Shuriken Auditing",
+        "herelink" : "here",
+        "threetierarchlink": "Three Tier Architecture",
+        "johnjdlink" : "John J. Donovan",
+        "nodetypenextbutton" : "Node Types >"
+    }
+  ]
+}

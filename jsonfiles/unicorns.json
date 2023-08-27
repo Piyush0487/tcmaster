@@ -1,0 +1,10 @@
+{
+    "unicorns":[
+        {
+            "unicornsidenav" : "Unicorns",
+            "unicornlink" : "UNiCORN",
+            "previousbuttonstoragenode" : "< Storage Node",
+            "nextbuttontransactions" : "Transactions >"
+        }
+    ]
+}

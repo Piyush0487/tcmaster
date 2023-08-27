@@ -1,0 +1,20 @@
+{
+    "nodetypes_module":[
+        {
+            "node_types":"Node Types",   
+            "mempool_node":"Mempool Node",
+            "miner_node":"Miner Node",
+            "storage_node":"Storage Node",   
+            "types_at_glance":"The Types at a Glance",
+            "why_different_nodetypes":"Why Different Node Types?",
+            "geographic_diversity":"Geographic Diversity",   
+            "storage_requirements":"Lighter Storage Requirements",
+            "znp_node_types":"ZNP Node Types",
+            "asset_payments":"Token-For-Asset Payments",
+            "znp_button":"< The Zenotta Network Protocol",   
+            "mempoolnode_button":"Mempool Node >",
+            "payment_settlement":"Quick Payment Settlement"
+            
+        }
+    ]
+}

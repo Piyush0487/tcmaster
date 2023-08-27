@@ -1,0 +1,16 @@
+{
+    "references_module":[
+        {
+            "developer_documentation_top":"Developer Documentation",   
+            "references":"References",
+            "zscript_opcodes_reference_side":"Zscript Opscode Reference",
+            "flow_control":"Flow Control",             
+            "numeric":"Numeric",   
+            "stack":"Stack",
+            "crypto":"Crypto",
+            "bit_logic":"Bit logic",
+            "push_values":"Push values",
+            "zscript_opcodes_reference":"ZScript Opcodes Reference"     
+        }
+    ]
+}

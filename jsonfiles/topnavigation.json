@@ -1,0 +1,15 @@
+{
+    "topnavigation_ofzenottahpmepage":[
+        {
+            "researchtopnavigation" : "Research",
+            "developerdocumentationtopnavigation" : "Developer Documentation",
+            "usefullinkstopnavigation" : "Useful links",
+            "testnetsignuptopnavigation" : "TestNet Signup",
+            "francais_language" : "Français",
+            "deutsch_language" : "Deutsch",
+            "italiano_language" : "Italiano",
+            "english_language" : "English"
+         
+        }
+    ]
+}

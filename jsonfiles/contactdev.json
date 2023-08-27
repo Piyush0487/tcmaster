@@ -1,0 +1,14 @@
+{
+    "contactdev_page":[
+        {
+            "contactdevelopmentteam": "Contact us",
+            "thispagelinkincontactdev" : "this page",
+            "nametext" : "Name",
+            "development" : "Developement",
+            "research" : "Research",
+            "other" : "Other",
+            "privacypolicylink" : "Privacy Policy",
+            "zenotta" : "@zenotta"
+    }
+  ]
+}

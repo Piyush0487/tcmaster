@@ -1,0 +1,20 @@
+{
+    "tutorials_module":[
+        {
+            "tutorialssidenav" : "Tutorials",
+            "sendandreceivepayments" : "Send and Receive Payments",
+            "signuphere" : "here",
+            "herelink" : "here",
+            "gettingstartedlink" : "Getting Started",
+            "nexttutorialpage" : "next tutorial",
+            "maillink" : "dev@zenotta.com",
+
+            "receiptbasedpaymentssidenav" : "Receipt-Based Payments",
+            "herelinkfornoreffer" : "here",
+            "settingupanRBPToc" : "Setting up an RBP",
+            "receiptbasedpaymentsToc" : "Receipt-Based Payments",
+            "fetchingpendingRBPsToc" : "Fetching Pending RBPs"
+             
+        }
+    ]
+}

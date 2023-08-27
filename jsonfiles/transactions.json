@@ -1,0 +1,13 @@
+{
+    "transactions":[
+        {
+            "transactionssidenav" : "Transactions",
+            "structureToc" : "Structure",
+            "inputsToc" : "Inputs",
+            "outputsToc" : "Outputs",
+            "transactionsToc" : "Transactions", 
+            "previousbuttonunicorns" : "< Unicorns",
+            "nextbuttonblockminingprocess" : "Block Mining Process >"
+        }
+    ]
+}

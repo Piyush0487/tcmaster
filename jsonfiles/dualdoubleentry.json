@@ -1,0 +1,14 @@
+{
+    "dual_double_entry":[
+        {
+       "dualdoubleentrytransactions" : "Dual Double Entry Transactions",
+       "dualdoubleentrytransactionsToc" : "Dual Double Entry Transactions",
+       "ddetransactionToc" : "How a DDE Transaction Works",
+       "receiptbasedToc" : "Receipt-Based Payments",
+       "futureconsiderationsandimprovementsToc" : "Future Considerations and Improvements",
+       "previousbuttonblockminingprocess" : "< Block Mining Process",
+       "nextbuttonshurikenauditing" : "Shuriken Auditing >"
+      }
+  ]
+
+}

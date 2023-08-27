@@ -1,0 +1,18 @@
+{
+    "mempoolnode_module":[
+        {
+            "mempoolnode":"Mempool Node",   
+            "toc_mempoolnode":"Mempool Node",
+            "unicorn":"UNiCORN",
+            "wikipage":"read this wiki page",   
+            "nodetype":"< Node Types",
+            "minernode":"Miner Node >",
+            "balanceofpower":"Balance of Power",   
+            "structure":"Mempool Node Structure",
+            "Constructingblocks":"Constructing Blocks",
+            "mempoolandminernode":"Mempool Nodes and Miner Nodes",
+            "mempoolandstoragenode":"Mempool Nodes and Storage Nodes"
+            
+        }
+    ]
+}

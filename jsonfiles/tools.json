@@ -1,0 +1,15 @@
+{
+    "tools_module":[
+        {
+            "developer_documentation_top":"Developer Documentation",   
+            "tools":"Tools",
+            "zscript_emulator":"Zscript emulator",
+            "dropdownbutton" : "Stable",
+            "nightly" : "Nightly",
+            "stable" : "Stable",
+            "zscriptemulatorbitcoinlink" : "BitCoin.",
+            "onefoundinbitcoinlink" : "one found in BitCoin"
+            
+        }
+    ]
+}

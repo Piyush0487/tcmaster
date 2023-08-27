@@ -1,0 +1,15 @@
+{
+    "contact_us_page":[
+        {
+        "contactuspage": "Contact us",
+        "thispagelink" : "this page",
+        "nametext" : "Name",
+        "development" : "Developement",
+        "research" : "Research",
+        "other" : "Other",
+        "privacypolicylink" : "Privacy Policy",
+        "zenotta" : "@zenotta"
+    }
+  ]
+
+}
